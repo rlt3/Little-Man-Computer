@@ -1,0 +1,8 @@
+     INP
+     OUT     
+LOOP BRZ QUIT
+     SUB ONE
+     OUT
+     BRA LOOP
+QUIT HLT
+ONE  DAT 1
