@@ -14,7 +14,7 @@ hello.asm`.
 
 This architecture has an `input` instruction. My machine handles this by
 expecting arguments to be put on the command line following the assembly file.
-`subtract.asm' subtracts two numbers given on the command line. You would call
+`subtract.asm` subtracts two numbers given on the command line. You would call
 it like `./lmc subtract.asm 4 2`.
 
 ## What are the instructions?
