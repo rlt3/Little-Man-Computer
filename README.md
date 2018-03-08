@@ -9,7 +9,7 @@ assembler too.
 ## How do I use it?
 
 Simply clone the repository and run `make`. The code has no dependencies and
-comes with some fun LMC assembly files like `hello.asm'. Run it like `./lmc
+comes with some fun LMC assembly files like `hello.asm`. Run it like `./lmc
 hello.asm`.
 
 This architecture has an `input` instruction. My machine handles this by
